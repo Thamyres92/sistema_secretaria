@@ -1,0 +1,3 @@
+sistema_secretaria_database_port = 5432
+sistema_secretaria_database_ip = 127.0.0.1
+sistema_secretaria_database_name = sistema_secretaria
